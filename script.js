@@ -123,13 +123,6 @@ function generatePassword(a) {
 
 }
 
-for (var i = 0; i < characterTypes.length; i++) {
-  if (characterTypes[i]) {
-    return
-  }
-}
-
-
 
 // Get references to the #generate element
 var generateBtn = document.querySelector('#generate');
