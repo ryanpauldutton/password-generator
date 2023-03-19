@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- <img src="./images/imagescreen.jpg" alt="Logo" width="900" height="570">
+  <img src="../assets/screenshot.png" alt="Logo" width="464px" height="300px">
 
 
 
